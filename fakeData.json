@@ -1,7 +1,7 @@
 [
     {
       "bookId": 1,
-      "bookName": "The Great Gatsby",
+      "bookName": "The Dating Playboy For Men",
       "author": "F. Scott Fitzgerald",
       "image": "https://i.ibb.co/VDmrQCt/pngwing-1.png",
       "review": "Set in the prosperous Jazz Age, 'The Great Gatsby' by F. Scott Fitzgerald is a poignant exploration of the elusive American Dream and the moral decay hidden beneath the glitz and glamour of the 1920s. Through the eyes of the enigmatic Jay Gatsby, Fitzgerald paints a vivid picture of opulence, obsession, and tragedy. The novel's lyrical prose and rich symbolism capture the essence of a bygone era, while its themes of love, betrayal, and the pursuit of wealth resonate with readers even today. Despite its brevity, 'The Great Gatsby' is a timeless masterpiece that continues to captivate audiences with its profound insights into the human condition and the enduring allure of the American Dream.",
@@ -14,7 +14,7 @@
     },
     {
       "bookId": 2,
-      "bookName": "1984",
+      "bookName": "Money",
       "author": "George Orwell",
       "image": "https://i.ibb.co/txjfqsL/kindpng-7318921.png",
       "review": "George Orwell's '1984' is a chilling portrayal of a dystopian future where totalitarianism reigns supreme and individual freedom is but a distant memory. Set in a world perpetually at war, the novel follows Winston Smith, a disillusioned citizen who dares to defy the oppressive regime of Big Brother. Through Winston's eyes, Orwell unveils a nightmarish vision of surveillance, propaganda, and thought control, where truth is subjective and dissent is swiftly crushed. '1984' serves as a stark warning against the dangers of unchecked power and the erosion of civil liberties. Its haunting portrayal of a society devoid of hope lingers in the minds of readers long after the final page is turned, making it a timeless classic that remains as relevant today as it was when it was first published.",
@@ -27,7 +27,7 @@
     },
     {
       "bookId": 3,
-      "bookName": "To Kill a Mockingbird",
+      "bookName": "The Heat You Give",
       "author": "Harper Lee",
       "image": "https://i.ibb.co/bF7WKrP/kindpng-1064993.png",
       "review": "Harper Lee's 'To Kill a Mockingbird' is a timeless masterpiece that transcends the boundaries of time and place to deliver a powerful message of empathy, justice, and moral growth. Set in the racially charged atmosphere of the 1930s Deep South, the novel follows young Scout Finch as she navigates the complexities of adulthood and confronts the harsh realities of prejudice and injustice. Through Scout's innocent eyes, Lee tackles themes of racism, compassion, and the loss of innocence with grace and sensitivity. 'To Kill a Mockingbird' is more than just a coming-of-age story; it's a searing indictment of systemic racism and a poignant reminder of the enduring power of human decency. With its unforgettable characters and timeless lessons, this Pulitzer Prize-winning novel continues to resonate with readers of all ages, making it a true classic of American literature.",
